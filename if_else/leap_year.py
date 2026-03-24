@@ -10,4 +10,4 @@ elif year % 100 != 0 and year % 4 == 0:
     print(f"{year} is a leap year")
 
 else:
-    print(f"{year} is a normal year")
+    print(f"{year} is a normal year") 
