@@ -11,7 +11,7 @@ while n > 0:
     digit = n % 10
 
     fact = 1
-    i = 1
+    i = 1 
 
     while i <= digit:
         fact = fact * i
